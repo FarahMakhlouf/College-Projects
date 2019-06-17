@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Shows>
+    <Show>
+        <TheaterName>Point 90</TheaterName>
+        <MovieName>Split</MovieName>
+        <Type>4D</Type>
+        <Time>10PM</Time>
+        <Seats>000000000000000000000000000000</Seats>
+        <NumOfSeats>30</NumOfSeats>
+    </Show>
+</Shows>
